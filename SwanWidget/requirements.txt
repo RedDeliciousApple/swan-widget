@@ -1,0 +1,4 @@
+PyQt6
+playsound==1.2.2
+pygame
+
