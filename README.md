@@ -1,5 +1,8 @@
+
 # 🦢 **Johan de Witt Swan Widget**  
 *A desktop companion that squishes, quacks, and judges your life choices.*  
+
+![Swan Widget](assets/swanwidget.jpg)
 
 ## **Features:**  
 ✅ **Squish Factor™** – Click him, and he compresses like a virtual stress-relief rubber duck. Double click and he quacks.
