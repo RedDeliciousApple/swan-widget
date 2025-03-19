@@ -5,7 +5,7 @@
 ![Swan Widget](assets/swanwidget.jpg)
 
 ## **Features:**  
-✅ **Squish Factor™** – Click him, and he compresses like a virtual stress-relief rubber duck. Double click and he quacks.
+✅ **Squish Factor™** – Click him, and he compresses like a virtual stress-relief rubber duck. Double click and he quacks.  
 ✅ **Speech Bubble System** – He has **historically accurate sass**, and he *remembers* if you click too much.  
 ✅ **Dragging Complaints** – Move him around, and he will **vocally object** to being kidnapped.  
 ✅ **Idle Animations & Speech** – He subtly floats and **comments on your workflow—or lack thereof.**  
