@@ -1,130 +1,45 @@
-### **📌 Let’s Write the README First**  
-Since deleting files is annoying, let’s just **document everything properly** so future you doesn’t suffer.  
+# 🦢 **Johan de Witt Swan Widget**  
+*A desktop companion that squishes, quacks, and judges your life choices.*  
+
+## **Features:**  
+✅ **Squish Factor™** – Click him, and he compresses like a virtual stress-relief rubber duck.  
+✅ **Quack Response** – Double-click for an authentic swan protest noise.  
+✅ **Speech Bubble System** – He has **historically accurate sass**, and he *remembers* if you click too much.  
+✅ **Dragging Complaints** – Move him around, and he will **vocally object** to being kidnapped.  
+✅ **Idle Animations & Speech** – He subtly floats and **comments on your workflow—or lack thereof.**  
+✅ **Stroopwafel Feeding** – Drag and drop his favorite snack (limited daily for *historical realism*).  
+✅ **Screenshot Mode** – He *pretends* not to care, but he will comment on your actions.  
+✅ **Right-Click Menu** – Functional actions like feeding, resigning (*closing*), and capturing the screen.  
 
 ---
 
-### **📄 README.md for SwanWidget**
-This should be added to **your GitHub repo**:
-
-```md
-# SwanWidget 🦢
-
-A draggable desktop swan that reacts when clicked, speaks, and quacks.
-
-## 🚀 Features
-- 🖱️ **Click**: Displays a random Johan de Witt quote.
-- 🦢 **Double-click**: Makes the swan quack.
-- 🎭 **Speech bubble**: The swan’s text appears slightly above it.
-- 📌 **Draggable**: You can move the swan anywhere on your screen.
+### **Future Plans (v2.0 & Beyond):**  
+🚀 **Actual automation features** – Clipboard history, file renaming, quick commands  
+🚀 **More interactivity** – Reactions based on time, mood tracking, notifications  
+🚀 **Smoother animations & expanded quote pool**  
+🚀 **Potential AI-powered OCR/Translation integration**  
 
 ---
 
-## 🛠️ Installation
-
-### **1. Install Python & Pip**
-Ensure you have **Python 3** installed. You can check with:
-```sh
-python3 --version
-```
-If pip isn’t installed, install it using:
-```sh
-python3 -m ensurepip --default-pip
-```
-If `pip3` is needed instead, try:
-```sh
-python3 -m ensurepip && python3 -m pip install --upgrade pip
-```
+### **Installation & Setup:**  
+Download, run, and enjoy your **historically accurate desktop bird**.  
+Built with **Python & PyQt6**, no third-party nonsense.  
+No, he does not fly.** You *must* move him yourself.  
 
 ---
 
-### **2. Install Dependencies**
-Navigate to your **SwanWidget folder** and install required Python packages:
-```sh
-pip3 install -r requirements.txt
-```
-OR manually install them:
-```sh
-pip3 install PyQt6 playsound pygame
-```
----
+### **📢 Feedback & Bug Reports**  
+**Please report any bugs if you find them!** If Johan glitches out, gets stuck, or refuses to be properly squishable, let me know.  
+**Any feedback is welcome!** If you have ideas for **new features, quotes, or interactions**, I’d love to hear them.  
+**More Johan = More Fun.** *Or more historical suffering. Either way, improvement.*  
 
-### **3. Running the Swan**
-Run this command in your **SwanWidget folder**:
-```sh
-python3 swan.py
-```
-OR, if you’ve set up an **Automator shortcut**, just double-click it.
+:3
 
----
+Installation (for Non-Developers)
+1️⃣ Install Python 3.9+
+2️⃣ Install PyQt6 → pip install PyQt6
+3️⃣ Download the repo
+4️⃣ Run: python swan.py
+5️⃣ Enjoy being judged by a 17th-century statesman.
 
-## 📂 Dependencies (`requirements.txt` file)
-To make installation easier, create a `requirements.txt` file with:
-```
-PyQt6
-playsound==1.2.2
-pygame
-```
-Now, installing dependencies is just:
-```sh
-pip3 install -r requirements.txt
-```
 
----
-
-## 🔧 Troubleshooting
-### **🛑 If sound doesn’t work (quack missing)**
-- Make sure the `quack.mp3` file is in the same directory as `swan.py`.
-- Try running:
-  ```sh
-  pip3 install playsound==1.2.2
-  ```
-- If on Mac, ensure you have **pygame**, as some `playsound` versions don’t work on macOS.
-
-### **🛑 If Python says module not found**
-- Check if PyQt6 is installed:
-  ```sh
-  pip3 list | grep PyQt6
-  ```
-- If missing, reinstall:
-  ```sh
-  pip3 install PyQt6
-  ```
-
-### **🛑 If pip doesn’t work at all**
-Try installing/updating pip:
-```sh
-python3 -m ensurepip --default-pip
-python3 -m pip install --upgrade pip
-```
-
----
-
-## 🎯 Future Features
-- 🖱️ **Right-click menu** (for clipboard history, settings, and more)
-- 🎭 **Expression changes & animation**
-- 🎮 **RPG-style interactions (feed the swan, pet the swan, etc.)**
-- 🦢 **Web version** (so it works on iPad/iPhone)
-
----
-
-## 🦢 Credits
-SwanWidget is a project inspired by historical chaos and Johan de Witt’s unintentional **swan energy.**  
-
-Quack responsibly.
-```
-
----
-
-### **📌 Now, Everything is Clear & Easy to Install**
-- Future you (or anyone else) can **set up SwanWidget in seconds.**
-- Everything is **documented properly**, so no frustration later.
-- The **Troubleshooting section** saves debugging time.
-
----
-
-### **📌 Next Steps**
-1. **Add this README.md to your GitHub repo**.
-2. **Create a `requirements.txt` file** if you haven’t already.
-3. If needed, **run the pip installation fixes**.
-
-Now, **future SwanWidget upgrades will be easier!** 🦢🚀
