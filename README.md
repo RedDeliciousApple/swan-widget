@@ -34,7 +34,7 @@
 
 ### 3️⃣ Run the Widget!
 - **Option 1:** Open `swan.py` in **VS Code** → Click "Run"
-- **Option 2:** Open **Terminal/Command Prompt**, navigate to the folder, then type: python3 swan.py
+- **Option 2:** Open **Terminal/Command Prompt**, navigate to the folder, then type: python3 swan.py (or python swan.py)
 
 ---
 
