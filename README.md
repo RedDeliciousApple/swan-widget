@@ -22,7 +22,7 @@
 
 ---
 
-## 🦢 How to Install & Run the Widget
+## How to Install & Run
 ### 1️⃣ Install Python & PyQt6
 - Download Python: [python.org/downloads](https://www.python.org/downloads/)
 - Open Terminal (Mac) or Command Prompt (Windows) and type: pip install PyQt6
@@ -38,7 +38,7 @@
 
 ---
 
-### **📢 Feedback & Bug Reports**  
+### **Feedback & Bug Reports**  
 **Please report any bugs if you find them!**
 **Any feedback is welcome!** If you have ideas for **new features, quotes, or interactions**, I’d love to hear them.  
 **More Johan = More Fun.** *Or more historical suffering. Either way, improvement.*  
