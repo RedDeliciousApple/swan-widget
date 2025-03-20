@@ -22,17 +22,24 @@
 
 ---
 
-### **Installation & Setup:**  
-1️⃣ Install Python 3.9+
-2️⃣ Install PyQt6 → pip install PyQt6
-3️⃣ Download the repo
-4️⃣ Run: python swan.py
-5️⃣ Enjoy being judged by a 17th-century statesman.
+## 🦢 How to Install & Run the Widget
+### 1️⃣ Install Python & PyQt6
+- Download Python: [python.org/downloads](https://www.python.org/downloads/)
+- Open Terminal (Mac) or Command Prompt (Windows) and type: pip install PyQt6
+- *(If "pip not found" → Mac users should try `pip3 install PyQt6`)*
+
+### 2️⃣ Download & Unzip the Files
+- Download `SwanWidgetv1.0.zip`
+- Extract the folder somewhere
+
+### 3️⃣ Run the Widget!
+- **Option 1:** Open `swan.py` in **VS Code** → Click "Run"
+- **Option 2:** Open **Terminal/Command Prompt**, navigate to the folder, then type: python3 swan.py
 
 ---
 
 ### **📢 Feedback & Bug Reports**  
-**Please report any bugs if you find them!** If Johan glitches out, gets stuck, or refuses to be properly squishable, let me know.  
+**Please report any bugs if you find them!**
 **Any feedback is welcome!** If you have ideas for **new features, quotes, or interactions**, I’d love to hear them.  
 **More Johan = More Fun.** *Or more historical suffering. Either way, improvement.*  
 
