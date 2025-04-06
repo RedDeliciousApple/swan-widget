@@ -37,6 +37,8 @@
 - **Option 2:** Open **Terminal/Command Prompt**, navigate to the folder, then type: python3 swan.py (or python swan.py)
 
 ---
+Note: This project was co-developed with the help of ChatGPT as a learning assistant. I used it to explore PyQt6, understand event-driven design, and debug logic during early development.
+---
 
 ### **Feedback & Bug Reports**  
 **Please report any bugs if you find them!**
